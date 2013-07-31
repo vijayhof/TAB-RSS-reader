@@ -1,0 +1,121 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* TAB RSS reader */ = {
+		activeExec = 0;
+		executables = (
+			674F31E013124FF500238C35 /* TAB RSS reader */,
+		);
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1412, 2678}}";
+			sepNavSelRange = "{3056, 0}";
+			sepNavVisRange = "{2514, 1657}";
+			sepNavWindowFrame = "{{15, 93}, {1425, 785}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 674F31E013124FF500238C35 /* TAB RSS reader */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TAB RSS reader */;
+		codeSenseManager = 674F31F01312501500238C35 /* Code sense */;
+		executables = (
+			674F31E013124FF500238C35 /* TAB RSS reader */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319967221;
+			PBXWorkspaceStateSaveDate = 319967221;
+		};
+		perUserProjectItems = {
+			674F32071312511800238C35 /* XCBuildMessageTextBookmark */ = 674F32071312511800238C35 /* XCBuildMessageTextBookmark */;
+			674F320C131567F000238C35 /* PBXTextBookmark */ = 674F320C131567F000238C35 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 674F31EF1312501500238C35 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	674F31E013124FF500238C35 /* TAB RSS reader */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "TAB RSS reader";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	674F31EF1312501500238C35 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	674F31F01312501500238C35 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	674F32071312511800238C35 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Class 'RootViewController' does not implement the 'NSXMLParserDelegate' protocol";
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 107;
+		rType = 1;
+	};
+	674F320C131567F000238C35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 108";
+		rLen = 0;
+		rLoc = 3056;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 0;
+	};
+}
